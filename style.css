@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(127, 226, 127);
+    font-family: "Roboto", sans-serif;
+
+}
+.D1{
+background-color:rgb(241, 241, 175);
+border-radius:10px;
+width: 50%;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
